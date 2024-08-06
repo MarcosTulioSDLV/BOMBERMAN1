@@ -1,0 +1,960 @@
+fileFormatVersion: 2
+guid: ecc53eef96cc9054fb5cd73d8693056d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7820062416257240451
+    second: TurboGrafx-16 - Star Parodier - Bomberman Enemies_0
+  - first:
+      213: -6815055760076948035
+    second: TurboGrafx-16 - Star Parodier - Bomberman Enemies_1
+  - first:
+      213: -5805310204322052434
+    second: TurboGrafx-16 - Star Parodier - Bomberman Enemies_2
+  - first:
+      213: -8247972262789126007
+    second: TurboGrafx-16 - Star Parodier - Bomberman Enemies_3
+  - first:
+      213: 8474132584022869164
+    second: TurboGrafx-16 - Star Parodier - Bomberman Enemies_4
+  - first:
+      213: -8233723467783519384
+    second: TurboGrafx-16 - Star Parodier - Bomberman Enemies_5
+  - first:
+      213: -5631766783348298758
+    second: TurboGrafx-16 - Star Parodier - Bomberman Enemies_6
+  - first:
+      213: 3972132834407664625
+    second: TurboGrafx-16 - Star Parodier - Bomberman Enemies_7
+  - first:
+      213: -8410110571048047511
+    second: TurboGrafx-16 - Star Parodier - Bomberman Enemies_8
+  - first:
+      213: 7542159986801438195
+    second: TurboGrafx-16 - Star Parodier - Bomberman Enemies_9
+  - first:
+      213: -6178775026355893095
+    second: TurboGrafx-16 - Star Parodier - Bomberman Enemies_10
+  - first:
+      213: 4199012535441189583
+    second: TurboGrafx-16 - Star Parodier - Bomberman Enemies_11
+  - first:
+      213: -3259349951499486737
+    second: TurboGrafx-16 - Star Parodier - Bomberman Enemies_12
+  - first:
+      213: 8541342512840217389
+    second: TurboGrafx-16 - Star Parodier - Bomberman Enemies_13
+  - first:
+      213: -439875334434476683
+    second: TurboGrafx-16 - Star Parodier - Bomberman Enemies_14
+  - first:
+      213: -6049954909280200778
+    second: TurboGrafx-16 - Star Parodier - Bomberman Enemies_15
+  - first:
+      213: -8962510797907208004
+    second: TurboGrafx-16 - Star Parodier - Bomberman Enemies_16
+  - first:
+      213: 8451686346848280028
+    second: TurboGrafx-16 - Star Parodier - Bomberman Enemies_17
+  - first:
+      213: 7301131510447438642
+    second: TurboGrafx-16 - Star Parodier - Bomberman Enemies_18
+  - first:
+      213: 1791952611613474651
+    second: TurboGrafx-16 - Star Parodier - Bomberman Enemies_19
+  - first:
+      213: 2554411980043195818
+    second: TurboGrafx-16 - Star Parodier - Bomberman Enemies_20
+  - first:
+      213: -1441269429333694078
+    second: TurboGrafx-16 - Star Parodier - Bomberman Enemies_21
+  - first:
+      213: -9164792382455826972
+    second: TurboGrafx-16 - Star Parodier - Bomberman Enemies_22
+  - first:
+      213: -7115966742719529478
+    second: TurboGrafx-16 - Star Parodier - Bomberman Enemies_23
+  - first:
+      213: -1695652215757579706
+    second: TurboGrafx-16 - Star Parodier - Bomberman Enemies_24
+  - first:
+      213: -4654929660396524838
+    second: TurboGrafx-16 - Star Parodier - Bomberman Enemies_25
+  - first:
+      213: -7320269979614745895
+    second: TurboGrafx-16 - Star Parodier - Bomberman Enemies_26
+  - first:
+      213: 1982918162869146896
+    second: TurboGrafx-16 - Star Parodier - Bomberman Enemies_27
+  - first:
+      213: 4100558520103009979
+    second: TurboGrafx-16 - Star Parodier - Bomberman Enemies_28
+  - first:
+      213: 4116802143949383191
+    second: TurboGrafx-16 - Star Parodier - Bomberman Enemies_29
+  - first:
+      213: 2269876880177136974
+    second: TurboGrafx-16 - Star Parodier - Bomberman Enemies_30
+  - first:
+      213: 2031099095794640295
+    second: TurboGrafx-16 - Star Parodier - Bomberman Enemies_31
+  - first:
+      213: -5789195405189265869
+    second: TurboGrafx-16 - Star Parodier - Bomberman Enemies_32
+  - first:
+      213: -2357645145964987908
+    second: TurboGrafx-16 - Star Parodier - Bomberman Enemies_33
+  - first:
+      213: 1456702135594358590
+    second: TurboGrafx-16 - Star Parodier - Bomberman Enemies_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Star Parodier - Bomberman Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72ba953aae897390800000000000000
+      internalID: -7820062416257240451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Star Parodier - Bomberman Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd3228d4ee0c61a0800000000000000
+      internalID: -6815055760076948035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Star Parodier - Bomberman Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea60f6480256f6fa0800000000000000
+      internalID: -5805310204322052434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Star Parodier - Bomberman Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988ed273de0598d80800000000000000
+      internalID: -8247972262789126007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Star Parodier - Bomberman Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca40f32ffaa2a9570800000000000000
+      internalID: 8474132584022869164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Star Parodier - Bomberman Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86347f35120fbbd80800000000000000
+      internalID: -8233723467783519384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Star Parodier - Bomberman Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb2eace2f1f7d1b0800000000000000
+      internalID: -5631766783348298758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Star Parodier - Bomberman Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbc88384c9df1730800000000000000
+      internalID: 3972132834407664625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Star Parodier - Bomberman Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c6cea8ef8494b80800000000000000
+      internalID: -8410110571048047511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Star Parodier - Bomberman Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fde6744c822ba860800000000000000
+      internalID: 7542159986801438195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Star Parodier - Bomberman Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c800f99d4904aa0800000000000000
+      internalID: -6178775026355893095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Star Parodier - Bomberman Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca626657a3e54a30800000000000000
+      internalID: 4199012535441189583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Star Parodier - Bomberman Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9bf26ec7674c2d0800000000000000
+      internalID: -3259349951499486737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Star Parodier - Bomberman Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2398cee2c1f88670800000000000000
+      internalID: 8541342512840217389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Star Parodier - Bomberman Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57da391c6bf35e9f0800000000000000
+      internalID: -439875334434476683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Star Parodier - Bomberman Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b71935601e3a0ca0800000000000000
+      internalID: -6049954909280200778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Star Parodier - Bomberman Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8532b2ae3ce9380800000000000000
+      internalID: -8962510797907208004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Star Parodier - Bomberman Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 97
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd19e814fb6a4570800000000000000
+      internalID: 8451686346848280028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Star Parodier - Bomberman Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 74
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b71aafc64d25560800000000000000
+      internalID: 7301131510447438642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Star Parodier - Bomberman Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 74
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ffd85f76b4ed810800000000000000
+      internalID: 1791952611613474651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Star Parodier - Bomberman Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa51a787928137320800000000000000
+      internalID: 2554411980043195818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Star Parodier - Bomberman Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2896fe617159ffbe0800000000000000
+      internalID: -1441269429333694078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Star Parodier - Bomberman Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5b383a2ed10d080800000000000000
+      internalID: -9164792382455826972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Star Parodier - Bomberman Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd75b213f10f3d90800000000000000
+      internalID: -7115966742719529478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Star Parodier - Bomberman Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 34
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a5a213b45d778e0800000000000000
+      internalID: -1695652215757579706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Star Parodier - Bomberman Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 34
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adaa2a1032e566fb0800000000000000
+      internalID: -4654929660396524838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Star Parodier - Bomberman Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 32
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da6b1dec3d296a90800000000000000
+      internalID: -7320269979614745895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Star Parodier - Bomberman Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 28
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0155c7c209db48b10800000000000000
+      internalID: 1982918162869146896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Star Parodier - Bomberman Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 29
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbef0739f3c18e830800000000000000
+      internalID: 4100558520103009979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Star Parodier - Bomberman Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 29
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7166ba8fcb1d12930800000000000000
+      internalID: 4116802143949383191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Star Parodier - Bomberman Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4584d60ff8308f10800000000000000
+      internalID: 2269876880177136974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Star Parodier - Bomberman Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5e47ccdd9ef2c10800000000000000
+      internalID: 2031099095794640295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Star Parodier - Bomberman Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336ce529375a8afa0800000000000000
+      internalID: -5789195405189265869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Star Parodier - Bomberman Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf935582b36f74fd0800000000000000
+      internalID: -2357645145964987908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Star Parodier - Bomberman Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3797a7dfde373410800000000000000
+      internalID: 1456702135594358590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
