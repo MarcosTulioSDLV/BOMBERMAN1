@@ -6,7 +6,7 @@ Super Bomberman is an action-maze video game developed by Hudson Soft and releas
 
 ![BOMBERMAN1_img](https://github.com/user-attachments/assets/093e35eb-e0f9-4477-a10e-b114196b8138)
 
-This is a Super Bomberman clone (Fangame) developed using **Unity and C#**, new scenarios, features, and enemies were added. Some of them are:
+This is a Super Bomberman clone (Fangame) developed using **Unity and C#**. New scenarios, features, and enemies were added. Some of them are:
 
 - Bomberman: By default, Bomberman can now placing down a maximum of 2 bombs.
 - Power ups: All power ups now are time-based (usually 40 seconds).
