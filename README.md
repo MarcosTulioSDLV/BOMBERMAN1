@@ -34,7 +34,7 @@ Hudson Soft/Konami - Super Bomberman Owner
 BOMBERMAN 1 (Super Bomberman Clone): 
 
 Game Designer/ Programmer:
-Marcos Tulio Soto 
+Marcos Tulio Soto. 
 
 Art:
 IceBreak23,
@@ -44,7 +44,7 @@ SteamyJ,
 ReyVGM,
 Alefy San,
 Rick Hoppmann,
-Adam Graham
+Adam Graham.
 
 Music / Sounds:
 Chris Kohler,
@@ -54,8 +54,8 @@ J-Yniesta,
 Jofae,
 Uppbeat,
 Raclure,
-https://www.fesliyanstudios.com
+https://www.fesliyanstudios.com.
 
 Special Thanks:
 Juan Diego Soto,
-Juan De Dios Soto
+Juan De Dios Soto.
